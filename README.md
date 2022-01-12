@@ -14,7 +14,6 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 ## Resources
 Data Source: election_results.csv
 
-
 ## Analysis and Challenges
 
 ## Deliverable 1a: Candidate Results
